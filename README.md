@@ -49,6 +49,6 @@ This is a modern pizza ordering application built with Next.js, a React framewor
 
 ## Live Demo & Deployment
 
-You can experience the Health Challenge Tracker in action:
+You can experience the Pizza Hub in action:
 
 - **Live Demo:** [https://ibm-pizzahub.netlify.app/](https://ibm-pizzahub.netlify.app/)
