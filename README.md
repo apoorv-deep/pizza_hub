@@ -25,16 +25,15 @@ This is a modern pizza ordering application built with Next.js, a React framewor
 
 2. **Clone the repository:**
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/apoorv-deep/pizza_hub.git
    cd pizza-hub
 
 3. **Install dependencies:**
    ```bash
    npm install  # Or 'yarn install'
    
-4.**Run the development server:**
-
-   ```bash  
+4. **Run the development server:**
+   ```bash 
    npm run dev  # Or 'yarn dev'
 
 5. **Open in your browser:**
