@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="text-purple-500 text-white p-4 mt-8 flex flex-col items-center sm:flex-row sm:justify-between">
+    <footer className="text-purple-900 text-white p-4 mt-8 flex flex-col items-center sm:flex-row sm:justify-between">
       <div>
         &copy; 2024 - ALL RIGHTS RESERVED | 
         <strong> <Link href="/" >PIZZA HUB</Link> </strong>
