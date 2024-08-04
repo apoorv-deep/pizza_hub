@@ -1,5 +1,5 @@
 # [Pizza Hub](https://ibm-pizzahub.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1bd225b7-56d3-410e-afdd-c73108f9c5d3/deploy-status)](https://app.netlify.com/sites/fyle-health-challenge-tracker/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c3d990f-c59f-4de1-a6ae-ee4066a81ed8/deploy-status)](https://app.netlify.com/sites/ibm-pizzahub/deploys)
 
 ## Overview
 
